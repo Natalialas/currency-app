@@ -31,6 +31,7 @@ const ResultBox = ({ from, to, amount }) => {
   }
 };
 
+
 ResultBox.propTypes = {
   from: PropTypes.string.isRequired,
   to: PropTypes.string.isRequired,
